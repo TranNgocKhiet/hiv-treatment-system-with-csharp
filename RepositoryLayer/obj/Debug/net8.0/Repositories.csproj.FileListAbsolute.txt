@@ -1,0 +1,11 @@
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\Repositories\obj\Debug\net8.0\ref\Repositories.dll

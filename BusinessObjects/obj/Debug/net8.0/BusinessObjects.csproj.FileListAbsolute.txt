@@ -1,0 +1,11 @@
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\6_github_repositories\prn212-project\HivTreatmentSystem\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

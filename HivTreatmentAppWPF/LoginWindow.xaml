@@ -1,0 +1,44 @@
+﻿<Window x:Class="HivTreatmentAppWPF.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HivTreatmentAppWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="LoginWindow" 
+        Height="300" 
+        Width="450">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="0,0,0,10" Grid.Column="1" Grid.ColumnSpan="3">
+            <TextBlock Text="Username:"/>
+            <TextBox x:Name="txtUsername" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Margin="0,0,0,10" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3">
+            <TextBlock Text="Password:"/>
+            <PasswordBox x:Name="txtPassword" Width="200"/>
+        </StackPanel>
+
+        <Button Grid.Row="2" Grid.Column="1" Content="Log In" Width="80" Height="25" Click="btnLogin_Click"/>
+
+        <Button Grid.Row="2" Grid.Column="3" Content="Quit" Width="80" Height="25" Click="btnCancel_Click"/>
+    </Grid>
+</Window>
