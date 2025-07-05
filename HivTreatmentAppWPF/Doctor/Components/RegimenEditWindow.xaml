@@ -1,0 +1,83 @@
+﻿<Window x:Class="HivTreatmentAppWPF.Doctor.Components.RegimenEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Phác đồ điều trị"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#F5F6FA"
+        SizeToContent="WidthAndHeight"
+        MinWidth="800"
+        MinHeight="520">
+    <DockPanel Margin="20">
+
+        <!-- Header -->
+        <Border Background="#0096FF" Padding="20" CornerRadius="8" DockPanel.Dock="Top" Margin="0,0,0,20" Effect="{StaticResource CardShadow}">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock Text="📋" FontSize="24" Margin="0,0,10,0"/>
+                <TextBlock Text="Phác đồ điều trị" FontSize="20" FontWeight="Bold" Foreground="White" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Footer Buttons -->
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Lưu"
+                    Width="120" Height="40" Margin="5"
+                    Style="{StaticResource NavButtonStyle}"
+                    Click="SaveButton_Click"/>
+            <Button Content="Huỷ"
+                    Width="120" Height="40" Margin="5"
+                    Style="{StaticResource DangerButtonStyle}"
+                    Click="CancelButton_Click"
+                    Background="Orange"/>
+        </StackPanel>
+
+        <!-- Main Form Content -->
+        <ScrollViewer DockPanel.Dock="Top" VerticalScrollBarVisibility="Auto" MaxHeight="500">
+            <Border Background="White" CornerRadius="12" Padding="20" Effect="{StaticResource CardShadow}">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Tên phác đồ:" Margin="5" VerticalAlignment="Center"
+                               FontSize="16" FontWeight="SemiBold"/>
+                    <TextBox x:Name="RegimenNameTextBox" Grid.Row="0" Grid.Column="1"
+                             Margin="5" Padding="10" MinWidth="350" Height="35"
+                             BorderBrush="#ccc" BorderThickness="1"/>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Thành phần:" Margin="5" VerticalAlignment="Top"
+                               FontSize="16" FontWeight="SemiBold"/>
+                    <TextBox x:Name="ComponentsTextBox" Grid.Row="1" Grid.Column="1"
+                             Margin="5" AcceptsReturn="True" Height="60" TextWrapping="Wrap" Padding="10"
+                             MinWidth="350" BorderBrush="#ccc" BorderThickness="1"/>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Chỉ định:" Margin="5" VerticalAlignment="Top"
+                               FontSize="16" FontWeight="SemiBold"/>
+                    <TextBox x:Name="IndicationsTextBox" Grid.Row="2" Grid.Column="1"
+                             Margin="5" AcceptsReturn="True" Height="60" TextWrapping="Wrap" Padding="10"
+                             MinWidth="350" BorderBrush="#ccc" BorderThickness="1"/>
+
+                    <TextBlock Grid.Row="3" Grid.Column="0" Text="Chống chỉ định:" Margin="5" VerticalAlignment="Top"
+                               FontSize="16" FontWeight="SemiBold"/>
+                    <TextBox x:Name="ContraindicationsTextBox" Grid.Row="3" Grid.Column="1"
+                             Margin="5" AcceptsReturn="True" Height="60" TextWrapping="Wrap" Padding="10"
+                             MinWidth="350" BorderBrush="#ccc" BorderThickness="1"/>
+
+                    <TextBlock Grid.Row="4" Grid.Column="0" Text="Mô tả thêm:" Margin="5" VerticalAlignment="Top"
+                               FontSize="16" FontWeight="SemiBold"/>
+                    <TextBox x:Name="DescriptionTextBox" Grid.Row="4" Grid.Column="1"
+                             Margin="5" AcceptsReturn="True" Height="80" TextWrapping="Wrap" Padding="10"
+                             MinWidth="350" BorderBrush="#ccc" BorderThickness="1"/>
+                </Grid>
+            </Border>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

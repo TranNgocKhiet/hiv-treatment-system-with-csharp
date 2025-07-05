@@ -7,12 +7,13 @@ namespace BusinessObjects
     public partial class Role
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public long Id { get; set; }
-        public string RoleName { get; set; }
+        public string? RoleName { get; set; }
 
         public Role() { }
 
-        public Role(long id, string roleName)
+        public Role(long id, string? roleName)
         {
             Id = id;
             RoleName = roleName;

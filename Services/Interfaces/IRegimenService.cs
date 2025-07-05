@@ -6,8 +6,10 @@ namespace Services.Interfaces
     {
         void Add(Regimen regimen);
         void Update(Regimen regimen);
-        void Delete(int id);
-        Regimen GetById(int id);
+        void Delete(long id);
+        Regimen? GetById(long id);
         List<Regimen> GetAll();
+        List<Regimen> GetByDoctorIdAndNull(long doctorId);
+
     }
 }

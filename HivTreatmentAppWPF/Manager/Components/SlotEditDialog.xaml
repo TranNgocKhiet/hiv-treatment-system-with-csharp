@@ -1,0 +1,116 @@
+﻿<Window x:Class="HivTreatmentAppWPF.Manager.SlotEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chỉnh sửa ca"
+        Height="500"
+        Width="420"
+        WindowStartupLocation="CenterScreen"
+        Background="#F5F6FA"
+        ResizeMode="NoResize">
+
+    <Grid Margin="30">
+        <Border CornerRadius="12"
+                Background="White"
+                Padding="20"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Effect="{StaticResource CardShadow}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Header -->
+                <Border Grid.Row="0"
+                        Background="#0096FF"
+                        CornerRadius="6"
+                        Padding="10"
+                        Margin="0 0 0 20">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <TextBlock Text="🗓️"
+                                   FontSize="20"
+                                   Margin="0 5 8 0"/>
+                        <TextBlock Text="Chỉnh sửa ca"
+                                   FontSize="18"
+                                   FontWeight="Bold"
+                                   Foreground="White"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Form -->
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="Mã phòng khám" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="RoomCodeTextBox" Grid.Row="0" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Ngày" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <DatePicker x:Name="DatePicker" Grid.Row="1" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Ca" Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="SlotComboBox"
+                              Grid.Row="2"
+                              Grid.Column="1"
+                              Margin="5"
+                              FontSize="14"
+                              IsEditable="False"/>
+
+                    <TextBlock Text="Số lượng slot" Grid.Row="3" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="SlotCountTextBox"
+                             Grid.Row="3"
+                             Grid.Column="1"
+                             Margin="5"
+                             FontSize="14"
+                             Text="1"/>
+
+                    <TextBlock Text="Tìm bác sĩ" Grid.Row="4" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="SearchDoctorTextBox"
+                             Grid.Row="4"
+                             Grid.Column="1"
+                             Margin="5"
+                             FontSize="14"
+                             TextChanged="SearchDoctorTextBox_TextChanged"/>
+
+                    <TextBlock Text="Chọn bác sĩ" Grid.Row="5" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="DoctorComboBox"
+                              Grid.Row="5"
+                              Grid.Column="1"
+                              Margin="5"
+                              FontSize="14"
+                              DisplayMemberPath="FullName"
+                              SelectedValuePath="Id"/>
+                </Grid>
+
+                <!-- Buttons -->
+                <StackPanel Grid.Row="2"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,25,0,0">
+                    <Button Content="Lưu"
+                            Style="{StaticResource NavButtonStyle}"
+                            Width="100"
+                            Click="OkButton_Click"/>
+                    <Button Content="Đóng"
+                            Style="{StaticResource DangerButtonStyle}"
+                            Width="100"
+                            Click="CancelButton_Click"
+                             Background="Orange"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

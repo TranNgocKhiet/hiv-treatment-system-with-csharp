@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }

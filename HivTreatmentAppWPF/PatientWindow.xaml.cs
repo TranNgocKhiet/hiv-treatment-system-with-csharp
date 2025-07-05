@@ -1,28 +1,36 @@
-﻿using System.Windows;
+﻿using BusinessObjects;
 using HivTreatmentAppWPF.Patient;
+using System.Windows;
 
 namespace HivTreatmentAppWPF
 {
     public partial class PatientWindow : Window
     {
-        public PatientWindow()
+        private User _user;
+        public PatientWindow(User user)
         {
             InitializeComponent();
+
+            _user = user;
+
+            txtGreeting.Text = $"Chào mừng bạn {_user.FullName}";
+
+            frMain.Navigate(new UserScheduleRegisterPage(_user));
         }
 
-        private void ToUserSchedulePageButton_Click(object sender, RoutedEventArgs e)
+        private void ToSchedulePageButton_Click(object sender, RoutedEventArgs e)
         {
-            frMain.Navigate(new UserSchedulePage());
+            frMain.Navigate(new UserScheduleRegisterPage(_user));
         }
 
-        private void ToUserHistoryPageButton_Click(object sender, RoutedEventArgs e)
+        private void ToAppointmentHistoryPageButton_Click(object sender, RoutedEventArgs e)
         {
-            frMain.Navigate(new UserHistoryPage());
+            frMain.Navigate(new UserSchedulePage(_user));
         }
 
-        private void ToUserEditProfilePageButton_Click(object sender, RoutedEventArgs e)
+        private void ToProfilePageButton_Click(object sender, RoutedEventArgs e)
         {
-            frMain.Navigate(new UserEditProfilePage());
+            frMain.Navigate(new UserProfileEditPage(_user));
         }
 
         private void LogoutButton_Click(object sender, RoutedEventArgs e)

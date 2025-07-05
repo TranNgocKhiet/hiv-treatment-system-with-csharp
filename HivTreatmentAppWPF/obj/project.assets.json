@@ -3172,11 +3172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
+      "projectUniqueName": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
       "projectName": "HivTreatmentAppWPF",
-      "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
+      "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\obj\\",
+      "outputPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3197,14 +3197,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\RepositoryLayer\\RepositoryLayer.csproj"
             },
-            "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Services.csproj": {
-              "projectPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Services.csproj"
+            "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Services.csproj": {
+              "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Services.csproj"
             }
           }
         }
@@ -3246,5 +3246,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

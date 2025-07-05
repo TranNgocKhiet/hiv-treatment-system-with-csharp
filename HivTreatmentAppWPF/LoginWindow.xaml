@@ -5,40 +5,81 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HivTreatmentAppWPF"
         mc:Ignorable="d"
+        Title="Đăng nhập hệ thống"
         WindowStartupLocation="CenterScreen"
-        Title="LoginWindow" 
-        Height="300" 
-        Width="450">
-    <Grid Margin="20">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="30"/>
-            <RowDefinition Height="30"/>
-        </Grid.RowDefinitions>
+        ResizeMode="NoResize"
+        Width="600" Height="350"
+        Background="#F5F9FF">
 
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="100"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-        </Grid.ColumnDefinitions>
+    <Border CornerRadius="10" Background="White" Margin="20" Padding="20" BorderBrush="#0096FF" BorderThickness="2">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
 
-        <StackPanel Margin="0,0,0,10" Grid.Column="1" Grid.ColumnSpan="3">
-            <TextBlock Text="Username:"/>
-            <TextBox x:Name="txtUsername" Width="200"/>
-        </StackPanel>
+            <TextBlock Text="Đăng nhập" FontSize="24" FontWeight="Bold" Foreground="#0096FF" 
+                       HorizontalAlignment="Center" Margin="0,0,0,20"/>
 
-        <StackPanel Margin="0,0,0,10" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3">
-            <TextBlock Text="Password:"/>
-            <PasswordBox x:Name="txtPassword" Width="200"/>
-        </StackPanel>
+            <Grid Grid.Row="1" Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Tên tài khoản" VerticalAlignment="Center" FontWeight="SemiBold" Grid.Column="0" Margin="5"/>
+                <TextBox x:Name="txtUsername" Width="260" Height="30" FontSize="14" Padding="5" Grid.Column="1"/>
+            </Grid>
 
-        <Button Grid.Row="2" Grid.Column="1" Content="Log In" Width="80" Height="25" Click="btnLogin_Click"/>
+            <Grid Grid.Row="2" Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
-        <Button Grid.Row="2" Grid.Column="3" Content="Quit" Width="80" Height="25" Click="btnCancel_Click"/>
-    </Grid>
+                <TextBlock Text="Mật khẩu" VerticalAlignment="Center" FontWeight="SemiBold" Grid.Column="0" Margin="5"/>
+
+                <StackPanel Grid.Column="1">
+                    <PasswordBox x:Name="txtPassword" Width="260" Height="30" FontSize="14" Padding="5" Visibility="Visible" PasswordChanged="txtPassword_PasswordChanged"/>
+                    <TextBox x:Name="txtPasswordVisible" Width="260" Height="30" FontSize="14" Padding="5" Visibility="Collapsed" TextChanged="txtPasswordVisible_TextChanged"/>
+                    <CheckBox x:Name="chkShowPassword" Width="260" Content="Hiện mật khẩu" Margin="5,5,0,0" Checked="chkShowPassword_Checked" Unchecked="chkShowPassword_Unchecked"/>
+                </StackPanel>
+            </Grid>
+
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Button Content="Đăng nhập" Width="120" Height="35" Margin="5"
+                        Click="btnLogin_Click"
+                        Background="#0096FF" Foreground="White" FontWeight="Bold"
+                        BorderThickness="0" Cursor="Hand">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#0096FF"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}" CornerRadius="5" Padding="5">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#0078D7"/>
+                                </Trigger>  
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <Button Content="Thoát" Width="100" Height="35" Margin="5"
+                        Click="btnCancel_Click"
+                        Background="Gray" Foreground="White" FontWeight="Bold"
+                        BorderThickness="0" Cursor="Hand"/>
+            </StackPanel>
+        </Grid>
+    </Border>
 </Window>

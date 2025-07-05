@@ -31,9 +31,21 @@ namespace DataAccess
 
         public void Update(User user)
         {
-            _context.Users.Update(user);
-            _context.SaveChanges();
+            var existing = _context.Users.FirstOrDefault(u => u.Id == user.Id);
+            if (existing != null)
+            {
+                existing.FullName = user.FullName;
+                existing.Address = user.Address;
+                existing.Gender = user.Gender;
+                existing.PhoneNumber = user.PhoneNumber;
+                existing.Email = user.Email;
+                existing.Password = user.Password;
+                existing.DateOfBirth = user.DateOfBirth;
+
+                _context.SaveChanges();
+            }
         }
+
 
         public void Delete(long id)
         {

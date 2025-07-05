@@ -6,8 +6,8 @@ namespace Services.Interfaces
     {
         void Add(DoctorProfile doctor);
         void Update(DoctorProfile doctor);
-        void Delete(int id);
-        DoctorProfile GetById(int id);
+        void Delete(long id);
+        DoctorProfile? GetById(long id);
         List<DoctorProfile> GetAll();
     }
 }

@@ -1,0 +1,92 @@
+﻿<Page x:Class="HivTreatmentAppWPF.Patient.UserProfileEditPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="950"
+      Title="UserProfileEditPage"
+      Background="#F5F6FA">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="60">
+            <Border Background="White"
+                    CornerRadius="12"
+                    BorderBrush="#E0E0E0"
+                    BorderThickness="1"
+                    Padding="30"
+                    Effect="{StaticResource CardShadow}">
+                <StackPanel HorizontalAlignment="Center">
+                    <!-- Header -->
+                    <Border Background="#0096FF"
+                            CornerRadius="6"
+                            Padding="10"
+                            Margin="0 0 0 20">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <TextBlock Text="👤"
+                                       FontSize="22"
+                                       Margin="0 5 8 0"/>
+                            <TextBlock Text="Chỉnh sửa thông tin cá nhân"
+                                       FontSize="20"
+                                       FontWeight="Bold"
+                                       Foreground="White"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Form fields -->
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Họ và tên:"/>
+                        <TextBox x:Name="FullNameTextBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Địa chỉ:"/>
+                        <TextBox x:Name="AddressTextBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Giới tính:"/>
+                        <ComboBox x:Name="GenderComboBox" Width="300" SelectedIndex="0">
+                            <ComboBoxItem Content="Nam"/>
+                            <ComboBoxItem Content="Nữ"/>
+                            <ComboBoxItem Content="Khác"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Số điện thoại:"/>
+                        <TextBox x:Name="PhoneNumberTextBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Email:"/>
+                        <TextBox x:Name="EmailTextBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Tên đăng nhập:"/>
+                        <TextBox x:Name="UsernameTextBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,10" HorizontalAlignment="Center">
+                        <Label Content="Mật khẩu:"/>
+                        <PasswordBox x:Name="PasswordBox" Width="300"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,0,0,20" HorizontalAlignment="Center">
+                        <Label Content="Ngày sinh:"/>
+                        <DatePicker x:Name="DateOfBirthPicker" Width="300"/>
+                    </StackPanel>
+
+                    <!-- Save Button -->
+                    <Button Content="Cập nhật hồ sơ"
+                            Style="{StaticResource NavButtonStyle}"
+                            Width="160"
+                            Height="40"
+                            Click="SaveButton_Click"
+                            HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </ScrollViewer>
+</Page>

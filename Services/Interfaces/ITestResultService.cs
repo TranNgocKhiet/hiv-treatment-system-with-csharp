@@ -6,8 +6,9 @@ namespace Services.Interfaces
     {
         void Add(TestResult result);
         void Update(TestResult result);
-        void Delete(int id);
-        TestResult GetById(int id);
+        void Delete(long id);
+        TestResult? GetById(long id);
         List<TestResult> GetAll();
+        List<TestResult> GetByHealthRecordId(long healthRecordId);
     }
 }

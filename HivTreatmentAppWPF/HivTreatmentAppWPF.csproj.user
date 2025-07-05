@@ -2,40 +2,73 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Doctor\Components\HealthRecordEditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Doctor\Components\RegimenEditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Doctor\Components\TestResultAddWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabTechnician\Components\TestResultEditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabTechnician\Pages\HealthRecordListPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabTechnician\Pages\LabTechnicianProfileEditPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Manager\Components\RequestHandleDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Manager\Components\SlotEditDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="DoctorWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Manager\ManagerSchedulePage.xaml.cs">
+    <Compile Update="Manager\Components\UserEditDialog.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Manager\RequestListPage.xaml.cs">
+    <Compile Update="Manager\Pages\ManagerSchedulePage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Manager\UserListPage.xaml.cs">
+    <Compile Update="Manager\Pages\RequestListPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Doctor\DoctorEditProfilePage.xaml.cs">
+    <Compile Update="Manager\Pages\UserListPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Doctor\DoctorSchedulePage.xaml.cs">
+    <Compile Update="Doctor\Pages\DoctorProfileEditPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Doctor\RegimenListPage.xaml.cs">
+    <Compile Update="Doctor\Pages\DoctorSchedulePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Doctor\Pages\RegimenListPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="PatientWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Patient\UserSchedulePage.xaml.cs">
+    <Compile Update="Patient\Components\HealthRecordViewWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Patient\UserHistoryPage.xaml.cs">
+    <Compile Update="Patient\Pages\UserScheduleRegisterPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Patient\UserEditProfilePage.xaml.cs">
+    <Compile Update="Patient\Pages\UserSchedulePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Patient\Pages\UserProfileEditPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LabTechnicianWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

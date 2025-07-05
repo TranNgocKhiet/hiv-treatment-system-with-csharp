@@ -8,24 +8,27 @@ namespace BusinessObjects
     public partial class Schedule
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public long Id { get; set; }
-        public string Type { get; set; }
-        public string RoomCode { get; set; }
-        public string Status { get; set; }
-        public DateTime Date { get; set; }
-        public TimeSpan Slot { get; set; }
-        public long DoctorId { get; set; }
-        public long PatientId { get; set; }
+        public string? Type { get; set; }
+        public string? RoomCode { get; set; }
+        public string? ActiveStatus { get; set; }
+        public string? RequestStatus { get; set; }
+        public DateTime? Date { get; set; }
+        public TimeSpan? Slot { get; set; }
+        public long? DoctorId { get; set; }
+        public long? PatientId { get; set; }
 
         public Schedule() { }
 
-        public Schedule(long id, string type, string roomCode, string status, DateTime date,
-                        TimeSpan slot, long doctorId, long patientId)
+        public Schedule(long id, string? type, string? roomCode, string? activeStatus, string? requestStatus, DateTime? date,
+                        TimeSpan? slot, long? doctorId, long? patientId)
         {
             Id = id;
             Type = type;
             RoomCode = roomCode;
-            Status = status;
+            ActiveStatus = activeStatus;
+            RequestStatus = requestStatus;
             Date = date;
             Slot = slot;
             DoctorId = doctorId;

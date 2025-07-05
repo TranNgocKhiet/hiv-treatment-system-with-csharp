@@ -1,13 +1,22 @@
-﻿using System.Windows;
+﻿using BusinessObjects;
 using HivTreatmentAppWPF.Manager; 
+using System.Windows;
 
 namespace HivTreatmentAppWPF
 {
     public partial class ManagerWindow : Window
     {
-        public ManagerWindow()
+        private readonly User _user;
+
+        public ManagerWindow(User user)
         {
             InitializeComponent();
+
+            _user = user;
+
+            txtGreeting.Text = $"Chào mừng quản lí {_user.FullName}";
+
+            frMain.Navigate(new ManagerSchedulePage());
         }
 
         private void ToUserListPageButton_Click(object sender, RoutedEventArgs e)

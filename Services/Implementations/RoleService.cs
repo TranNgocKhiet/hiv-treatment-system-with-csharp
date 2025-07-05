@@ -14,13 +14,9 @@ namespace Services.Implementations
         }
 
         public void Add(Role role) => _roleRepository.Add(role);
-
-        public void Delete(int id) => _roleRepository.Delete(id);
-
-        public Role GetById(int id) => _roleRepository.GetById(id);
-
+        public void Delete(long id) => _roleRepository.Delete(id);
+        public Role GetById(long id) => _roleRepository.GetById(id);
         public List<Role> GetAll() => _roleRepository.GetAll();
-
         public void Update(Role role) => _roleRepository.Update(role);
     }
 }

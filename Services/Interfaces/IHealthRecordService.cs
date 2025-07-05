@@ -6,8 +6,10 @@ namespace Services.Interfaces
     {
         void Add(HealthRecord record);
         void Update(HealthRecord record);
-        void Delete(int id);
-        HealthRecord GetById(int id);
+        void Delete(long id);
+        HealthRecord? GetById(long id);
         List<HealthRecord> GetAll();
+        HealthRecord GetByScheduleId(long? scheduleId);
+
     }
 }

@@ -1,138 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\",
+  "WorkspaceRootPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\pages\\userschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\pages\\userschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\hivtreatmentappwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\hivtreatmentappwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\pages\\userscheduleregisterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\pages\\userscheduleregisterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\userlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\userlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\pages\\userschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\pages\\userschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\managerschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\managerschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\pages\\userscheduleregisterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\pages\\userscheduleregisterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\requestlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\requestlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\userlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\userlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\requestlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\requestlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\managerschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\managerschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\labtechnician\\pages\\labtechnicianprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\labtechnician\\pages\\labtechnicianprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\labtechnician\\pages\\healthrecordlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\labtechnician\\pages\\healthrecordlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\pages\\regimenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\pages\\regimenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\pages\\doctorschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\pages\\doctorschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\pages\\doctorprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\pages\\doctorprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\pages\\userprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\pages\\userprofileeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\patient\\components\\healthrecordviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patient\\components\\healthrecordviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\userlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\userlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\requestlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\requestlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\components\\usereditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\components\\usereditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\pages\\managerschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\pages\\managerschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\userlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\userlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\components\\requesthandledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\components\\requesthandledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\managerschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\managerschedulepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\components\\sloteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\components\\sloteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\manager\\requestlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\requestlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\labtechnician\\components\\testresulteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\labtechnician\\components\\testresulteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\labtechnician\\pages\\healthrecordlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\labtechnician\\pages\\healthrecordlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\components\\testresultaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\components\\testresultaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\components\\regimeneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\components\\regimeneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\components\\healthrecordeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\components\\healthrecordeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\components\\healthrecordeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\components\\healthrecordeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\pages\\doctorschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\pages\\doctorschedulepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\doctor\\pages\\regimenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\doctor\\pages\\regimenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\manager\\components\\sloteditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\manager\\components\\sloteditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\dataaccesslayer\\hivdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\hivdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\hivtreatmentappwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\repositorylayer\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\repositorylayer\\implementations\\regimenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\implementations\\regimenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\dataaccesslayer\\doctorprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF85DE6C-82FE-44DE-929E-FFE360A9A374}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\doctorprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\hivtreatmentappwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F64579-7988-4D1C-86ED-05858F35592D}|HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj|solutionrelative:hivtreatmentappwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\doctorprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\doctorprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\regimenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\regimenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\services\\implementations\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\services\\implementations\\testresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\implementations\\testresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\repositorylayer\\interfaces\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interfaces\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|d:\\6_github_repositories\\prn212-project\\hivtreatmentsystem\\repositorylayer\\interfaces\\idoctorprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80CF220-C386-4C74-964E-94C499D0743D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interfaces\\idoctorprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\services\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06E0B5E-976C-4110-8BA7-4544A31CBD62}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,397 +146,427 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestListPage.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\RequestListPage.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\RequestListPage.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\RequestListPage.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\RequestListPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:37:44.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "ManagerSchedulePage.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T06:36:38.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ManagerWindow.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\ManagerWindow.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\ManagerWindow.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\ManagerWindow.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\ManagerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:53:53.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserListPage.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\UserListPage.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\UserListPage.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\UserListPage.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\UserListPage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:51:29.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserListPage.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\UserListPage.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\UserListPage.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\UserListPage.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\UserListPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:51:13.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LoginWindow.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\LoginWindow.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:09:36.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HivTreatmentAppWPF.csproj",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
-              "RelativeToolTip": "HivTreatmentAppWPF\\HivTreatmentAppWPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T05:09:30.835Z",
+              "WhenOpened": "2025-07-05T20:49:14.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\App.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\App.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\App.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\App.xaml",
+              "DocumentIndex": 5,
+              "Title": "RequestListPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:10:56.426Z",
+              "WhenOpened": "2025-07-05T20:49:28.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:50:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSchedulePage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T21:44:06.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ManagerSchedulePage.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\ManagerSchedulePage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "UserScheduleRegisterPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T17:15:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSchedulePage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Pages\\UserSchedulePage.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwG0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:40:18.234Z"
+              "WhenOpened": "2025-07-05T21:44:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserScheduleRegisterPage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Pages\\UserScheduleRegisterPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:15:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LabTechnicianProfileEditPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\LabTechnicianProfileEditPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LabTechnician\\Pages\\LabTechnicianProfileEditPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\LabTechnicianProfileEditPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\LabTechnician\\Pages\\LabTechnicianProfileEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:20:00.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthRecordListPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:19:58.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegimenListPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T18:36:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorSchedulePage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T18:20:22.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RequestListPage.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\RequestListPage.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\RequestListPage.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\Manager\\RequestListPage.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\RequestListPage.xaml",
+              "Title": "DoctorProfileEditPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorProfileEditPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorProfileEditPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorProfileEditPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorProfileEditPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T06:36:40.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManagerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\ManagerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\ManagerWindow.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\ManagerWindow.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\ManagerWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:53:51.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:09:48.225Z"
+              "WhenOpened": "2025-07-05T18:20:09.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "DoctorWindow.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\DoctorWindow.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\DoctorWindow.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\DoctorWindow.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\DoctorWindow.xaml",
+              "Title": "UserProfileEditPage.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserProfileEditPage.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Pages\\UserProfileEditPage.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Pages\\UserProfileEditPage.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Pages\\UserProfileEditPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:49:05.484Z"
+              "WhenOpened": "2025-07-05T21:44:00.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "PatientWindow.xaml",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\PatientWindow.xaml",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\PatientWindow.xaml",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\PatientWindow.xaml",
-              "RelativeToolTip": "HivTreatmentAppWPF\\PatientWindow.xaml",
+              "Title": "HealthRecordViewWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Components\\HealthRecordViewWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Patient\\Components\\HealthRecordViewWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Patient\\Components\\HealthRecordViewWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Patient\\Components\\HealthRecordViewWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:49:19.799Z"
+              "WhenOpened": "2025-07-05T17:15:25.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "DoctorWindow.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\DoctorWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\DoctorWindow.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\DoctorWindow.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\DoctorWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAAMAAAAAAAAAA==",
+              "Title": "UserListPage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\UserListPage.xaml.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAUwLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:10:31.626Z"
+              "WhenOpened": "2025-07-05T21:27:39.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "PatientWindow.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\PatientWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\PatientWindow.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\PatientWindow.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\PatientWindow.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvw8AAAABAAAAAAAAAA==",
+              "Title": "RequestListPage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\RequestListPage.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv5EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:10:11.328Z"
+              "WhenOpened": "2025-07-05T20:51:50.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "HivDbContext.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\HivDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\HivDbContext.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\HivDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\HivDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvxoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:15:13.196Z"
+              "Title": "UserEditDialog.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\UserEditDialog.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Components\\UserEditDialog.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\UserEditDialog.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Components\\UserEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:49:02.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "PatientWindow.g.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\obj\\Debug\\net8.0-windows\\PatientWindow.g.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGYAAAA3AAAAAAAAAA==",
+              "Title": "ManagerSchedulePage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Pages\\ManagerSchedulePage.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv6AAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:12:13.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegimenRepository.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Implementations\\RegimenRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\Implementations\\RegimenRepository.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Implementations\\RegimenRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\Implementations\\RegimenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:27:17.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\UserDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\UserDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:25:29.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DoctorProfileDAO.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DoctorProfileDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DoctorProfileDAO.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\DataAccessLayer\\DoctorProfileDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\DoctorProfileDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:24:51.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Implementations\\UserRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\Implementations\\UserRepository.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Implementations\\UserRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\Implementations\\UserRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:18:17.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\UserService.cs",
-              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:01.081Z"
+              "WhenOpened": "2025-07-05T21:03:33.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\ManagerWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\ManagerWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T21:23:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestHandleDialog.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\RequestHandleDialog.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Components\\RequestHandleDialog.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\RequestHandleDialog.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Components\\RequestHandleDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:34:06.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HealthRecordListPage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\LabTechnician\\Pages\\HealthRecordListPage.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:08:20.356Z"
+              "WhenOpened": "2025-07-05T20:22:42.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestResultEditWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Components\\TestResultEditWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\LabTechnician\\Components\\TestResultEditWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\LabTechnician\\Components\\TestResultEditWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\LabTechnician\\Components\\TestResultEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T20:19:31.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\App.xaml.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\HivTreatmentAppWPF\\App.xaml.cs",
-              "RelativeToolTip": "HivTreatmentAppWPF\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:11:26.603Z"
+              "Title": "RegimenEditWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\RegimenEditWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Components\\RegimenEditWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\RegimenEditWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Components\\RegimenEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T19:21:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SlotEditDialog.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T17:59:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestResultAddWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\TestResultAddWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Components\\TestResultAddWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\TestResultAddWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Components\\TestResultAddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T19:21:39.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "HealthRecordService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\HealthRecordService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\HealthRecordService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\HealthRecordService.cs",
-              "RelativeToolTip": "Services\\Implementations\\HealthRecordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:32.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ScheduleService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\ScheduleService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\ScheduleService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\ScheduleService.cs",
-              "RelativeToolTip": "Services\\Implementations\\ScheduleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:35.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TestResultService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\TestResultService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\TestResultService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\TestResultService.cs",
-              "RelativeToolTip": "Services\\Implementations\\TestResultService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:36.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\RoleService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\RoleService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\RoleService.cs",
-              "RelativeToolTip": "Services\\Implementations\\RoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:34.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RegimenService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\RegimenService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\RegimenService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\RegimenService.cs",
-              "RelativeToolTip": "Services\\Implementations\\RegimenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:06:33.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IHealthRecordRepository.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Interfaces\\IHealthRecordRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\Interfaces\\IHealthRecordRepository.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Interfaces\\IHealthRecordRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\Interfaces\\IHealthRecordRepository.cs",
+              "Title": "HealthRecordEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:05:59.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IDoctorProfileRepository.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Interfaces\\IDoctorProfileRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\Interfaces\\IDoctorProfileRepository.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\RepositoryLayer\\Interfaces\\IDoctorProfileRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\Interfaces\\IDoctorProfileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:05:57.857Z"
+              "WhenOpened": "2025-07-05T19:06:36.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "DoctorProfileService.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\DoctorProfileService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\DoctorProfileService.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Implementations\\DoctorProfileService.cs",
-              "RelativeToolTip": "Services\\Implementations\\DoctorProfileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "HealthRecordEditWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Components\\HealthRecordEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T18:20:01.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorWindow.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\DoctorWindow.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\DoctorWindow.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\DoctorWindow.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\DoctorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T19:09:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoctorSchedulePage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Pages\\DoctorSchedulePage.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:05:43.642Z"
+              "WhenOpened": "2025-07-05T18:24:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegimenListPage.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Doctor\\Pages\\RegimenListPage.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:40:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SlotEditDialog.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml.cs",
+              "RelativeToolTip": "HivTreatmentAppWPF\\Manager\\Components\\SlotEditDialog.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:59:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\App.xaml",
+              "RelativeDocumentMoniker": "HivTreatmentAppWPF\\App.xaml",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\HivTreatmentAppWPF\\App.xaml",
+              "RelativeToolTip": "HivTreatmentAppWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-05T17:52:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Implementations\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ScheduleService.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Implementations\\ScheduleService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ScheduleService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:31:49.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Interfaces\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IScheduleService.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Interfaces\\IScheduleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:31:38.845Z",
+              "EditorCaption": ""
             }
           ]
         }

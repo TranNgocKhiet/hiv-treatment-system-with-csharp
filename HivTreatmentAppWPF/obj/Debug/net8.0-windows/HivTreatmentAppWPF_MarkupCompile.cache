@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\6_github_repositories\prn212-project\HivTreatmentSystem\HivTreatmentAppWPF\obj\Debug\net8.0-windows\
+D:\6_github_repositories\prn212-project\hiv-treatment-system-with-csharp\HivTreatmentAppWPF\obj\Debug\net8.0-windows\
 HivTreatmentAppWPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\6_github_repositories\prn212-project\HivTreatmentSystem\HivTreatmentAppWPF\App.xaml
-131538950401
+D:\6_github_repositories\prn212-project\hiv-treatment-system-with-csharp\HivTreatmentAppWPF\App.xaml
+24-1993751927
 
-15-256697730
-2381705731350
-DoctorWindow.xaml;Doctor\DoctorEditProfilePage.xaml;Doctor\DoctorSchedulePage.xaml;Doctor\RegimenListPage.xaml;LoginWindow.xaml;ManagerWindow.xaml;Manager\ManagerSchedulePage.xaml;Manager\RequestListPage.xaml;Manager\UserListPage.xaml;PatientWindow.xaml;Patient\UserEditProfilePage.xaml;Patient\UserHistoryPage.xaml;Patient\UserSchedulePage.xaml;
+26-460844369
+238945656921
+DoctorWindow.xaml;Doctor\Components\HealthRecordEditWindow.xaml;Doctor\Components\RegimenEditWindow.xaml;Doctor\Components\TestResultAddWindow.xaml;Doctor\Pages\DoctorProfileEditPage.xaml;Doctor\Pages\DoctorSchedulePage.xaml;Doctor\Pages\RegimenListPage.xaml;LabTechnicianWindow.xaml;LabTechnician\Components\TestResultEditWindow.xaml;LabTechnician\Pages\HealthRecordListPage.xaml;LabTechnician\Pages\LabTechnicianProfileEditPage.xaml;LoginWindow.xaml;ManagerWindow.xaml;Manager\Components\RequestHandleDialog.xaml;Manager\Components\SlotEditDialog.xaml;Manager\Components\UserEditDialog.xaml;Manager\Pages\ManagerSchedulePage.xaml;Manager\Pages\RequestListPage.xaml;Manager\Pages\UserListPage.xaml;PatientWindow.xaml;Patient\Components\HealthRecordViewWindow.xaml;Patient\Pages\UserProfileEditPage.xaml;Patient\Pages\UserSchedulePage.xaml;Patient\Pages\UserScheduleRegisterPage.xaml;
 
 False
 

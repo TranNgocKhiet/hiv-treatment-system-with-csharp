@@ -14,8 +14,8 @@ namespace Services.Implementations
         }
 
         public void Add(DoctorProfile doctor) => _doctorProfileRepository.Add(doctor);
-        public void Delete(int id) => _doctorProfileRepository.Delete(id);
-        public DoctorProfile GetById(int id) => _doctorProfileRepository.GetById(id);
+        public void Delete(long id) => _doctorProfileRepository.Delete(id);
+        public DoctorProfile GetById(long id) => _doctorProfileRepository.GetById(id);
         public List<DoctorProfile> GetAll() => _doctorProfileRepository.GetAll();
         public void Update(DoctorProfile doctor) => _doctorProfileRepository.Update(doctor);
     }

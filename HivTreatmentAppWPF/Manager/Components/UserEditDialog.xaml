@@ -1,0 +1,124 @@
+﻿<Window x:Class="HivTreatmentAppWPF.Manager.Components.UserEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chỉnh sửa thông tin người dùng"
+        Height="630"
+        Width="440"
+        WindowStartupLocation="CenterScreen"
+        Background="#F5F6FA"
+        ResizeMode="NoResize">
+
+    <Grid Margin="30">
+        <Border Background="White"
+                Padding="20"
+                CornerRadius="12"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Effect="{StaticResource CardShadow}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Header -->
+                <Border Grid.Row="0"
+                        Background="#0096FF"
+                        CornerRadius="6"
+                        Padding="10"
+                        Margin="0 0 0 20">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <TextBlock Text="👤"
+                                   FontSize="20"
+                                   Margin="0 5 8 0"/>
+                        <TextBlock Text="Chỉnh sửa người dùng"
+                                   FontSize="18"
+                                   FontWeight="Bold"
+                                   Foreground="White"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Form -->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Họ tên" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="FullNameTextBox" Grid.Row="0" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Địa chỉ" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="AddressTextBox" Grid.Row="1" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Giới tính" Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="GenderComboBox" Grid.Row="2" Grid.Column="1" Margin="5" FontSize="14">
+                        <ComboBoxItem Content="Nam"/>
+                        <ComboBoxItem Content="Nữ"/>
+                        <ComboBoxItem Content="Khác"/>
+                    </ComboBox>
+
+                    <TextBlock Text="Trạng thái TK" Grid.Row="3" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="AccountStatusComboBox" Grid.Row="3" Grid.Column="1" Margin="5" FontSize="14">
+                        <ComboBoxItem Content="Đang hoạt động"/>
+                        <ComboBoxItem Content="Bị khóa"/>
+                    </ComboBox>
+
+                    <TextBlock Text="SĐT" Grid.Row="4" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="PhoneNumberTextBox" Grid.Row="4" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Email" Grid.Row="5" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="EmailTextBox" Grid.Row="5" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Username" Grid.Row="6" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="UsernameTextBox" Grid.Row="6" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Mật khẩu" Grid.Row="7" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <PasswordBox x:Name="PasswordBox" Grid.Row="7" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Ngày sinh" Grid.Row="8" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <DatePicker x:Name="DateOfBirthPicker" Grid.Row="8" Grid.Column="1" Margin="5" FontSize="14"/>
+
+                    <TextBlock Text="Role" Grid.Row="9" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="RoleComboBox"
+                              Grid.Row="9"
+                              Grid.Column="1"
+                              Margin="5"
+                              FontSize="14"
+                              DisplayMemberPath="Name"
+                              SelectedValuePath="Id"/>
+                </Grid>
+
+                <!-- Buttons -->
+                <StackPanel Grid.Row="2"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,25,0,0">
+                    <Button Content="Lưu"
+                            Style="{StaticResource NavButtonStyle}"
+                            Width="100"
+                            Click="OkButton_Click"/>
+                    <Button Content="Đóng"
+                            Style="{StaticResource DangerButtonStyle}"
+                            Width="100"
+                            Click="CancelButton_Click"
+                            Background="Orange"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

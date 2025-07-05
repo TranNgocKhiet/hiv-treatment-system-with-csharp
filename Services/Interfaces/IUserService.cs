@@ -6,8 +6,8 @@ namespace Services.Interfaces
     {
         void Add(User customer);
         void Update(User customer);
-        void Delete(int id);
-        User GetById(int id);
+        void Delete(long id);
+        User? GetById(long id);
         List<User> GetAll();
         User Login(String username, String password);
 

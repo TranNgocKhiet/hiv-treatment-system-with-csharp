@@ -5,95 +5,60 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HivTreatmentAppWPF"
         mc:Ignorable="d"
-        Title="ManagerWindow" Height="900" Width="950">
-    <Grid Margin="20">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-        </Grid.ColumnDefinitions>
+        Title="Cửa sổ quản lý"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Background="#F5F6FA">
+    <DockPanel LastChildFill="True" Margin="20">
 
-        <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-        </Grid.RowDefinitions>
+        <!-- Header -->
+        <Border Background="#0096FF" Padding="20" CornerRadius="8" DockPanel.Dock="Top" Margin="0,0,0,20" Effect="{StaticResource CardShadow}">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Image Source="/Assets/manager_icon.png" Width="40" Height="40" Margin="0,0,15,0"/>
+                <TextBlock x:Name="txtGreeting"
+                           Text="Chào mừng quản lý!"
+                           FontSize="20"
+                           Foreground="White"
+                           FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+        </Border>
 
-        <Frame x:Name="frMain" 
-               VerticalAlignment="Stretch" 
-               Grid.Row="0"
-               Grid.RowSpan="15"
-               Grid.Column="0"
-               Grid.ColumnSpan="18"
-               NavigationUIVisibility="Hidden"/>
+        <!-- Bottom navigation bar -->
+        <WrapPanel DockPanel.Dock="Bottom"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   VerticalAlignment="Bottom">
+            <Button Content="Danh sách yêu cầu"
+                    Name="ToRequestListPageButton"
+                    Click="ToRequestListPageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
 
-        <Button Content="User List" 
-                Name="ToUserListPageButton" 
-                Click="ToUserListPageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="1"
-                Grid.Row="15"
-                Grid.ColumnSpan="2"/>
+            <Button Content="Thời khóa biểu"
+                    Name="ToMangerSchedulePageButton"
+                    Click="ToMangerSchedulePageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
 
-        <Button Content="Schedule"
-                Name="ToMangerSchedulePageButton" 
-                Click="ToMangerSchedulePageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="4"
-                Grid.Row="15"
-                Grid.ColumnSpan="4"/>
+            <Button Content="Danh sách người dùng"
+                    Name="ToUserListPageButton"
+                    Click="ToUserListPageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
 
-        <Button Content="Request List"
-                Name="ToRequestListPageButton" 
-                Click="ToRequestListPageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="7"
-                Grid.Row="15"
-                Grid.ColumnSpan="4"/>
+            <Button Content="Đăng xuất"
+                    Click="LogoutButton_Click"
+                    Style="{StaticResource DangerButtonStyle}"/>
+        </WrapPanel>
 
-        <Button Content="Log Out"
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="15"
-                Grid.Row="15"
-                Grid.ColumnSpan="2"
-                Click="LogoutButton_Click"/>
-    </Grid>
+        <!-- Main content frame -->
+        <Border CornerRadius="8"
+                Background="White"
+                Padding="10"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Effect="{StaticResource CardShadow}">
+            <Frame x:Name="frMain"
+                   NavigationUIVisibility="Hidden"
+                   Background="White"/>
+        </Border>
+    </DockPanel>
 </Window>

@@ -1,99 +1,56 @@
 ﻿<Window x:Class="HivTreatmentAppWPF.DoctorWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:HivTreatmentAppWPF"
-        mc:Ignorable="d"
-        Title="DoctorWindow" Height="900" Width="950">
-    <Grid Margin="20">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-        </Grid.ColumnDefinitions>
+        Title="Cửa sổ bác sĩ"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Background="#F5F6FA">
+    <DockPanel LastChildFill="True" Margin="20">
 
-        <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-        </Grid.RowDefinitions>
+        <!-- Header -->
+        <Border Background="#0096FF" Padding="20" CornerRadius="8" DockPanel.Dock="Top" Margin="0,0,0,20" Effect="{StaticResource CardShadow}">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock x:Name="txtGreeting"
+                           Text="Chào mừng bác sĩ!"
+                           FontSize="20"
+                           Foreground="White"
+                           FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+        </Border>
 
-        <Frame x:Name="frMain" 
-               VerticalAlignment="Stretch" 
-               Grid.Row="0"
-               Grid.RowSpan="15"
-               Grid.Column="0"
-               Grid.ColumnSpan="18"
-               NavigationUIVisibility="Hidden"/>
+        <!-- Bottom navigation bar -->
+        <WrapPanel DockPanel.Dock="Bottom"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   VerticalAlignment="Bottom">
+            <Button Content="Lịch khám"
+                    Name="ToDoctorSchedulePageButton"
+                    Click="ToDoctorSchedulePageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
+            <Button Content="Danh sách phác đồ"
+                    Name="ToRegimenListPageButton"
+                    Click="ToRegimenListPageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
+            <Button Content="Hồ sơ cá nhân"
+                    Name="ToDoctorEditProfilePageButton"
+                    Click="ToDoctorEditProfilePageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
+            <Button Content="Đăng xuất"
+                    Click="LogoutButton_Click"
+                    Style="{StaticResource DangerButtonStyle}"/>
+        </WrapPanel>
 
-        <Button Content="Regimen List" 
-                Name="ToRegimenListPageButton" 
-                Click="ToRegimenListPageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="1"
-                Grid.Row="15"
-                Grid.ColumnSpan="2"/>
-
-        <Button Content="Schedule"
-                Name="ToDoctorSchedulePageButton" 
-                Click="ToDoctorSchedulePageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="4"
-                Grid.Row="15"
-                Grid.ColumnSpan="4"/>
-
-        <Button Content="Profile"
-                Name="ToDoctorEditProfilePageButton" 
-                Click="ToDoctorEditProfilePageButton_Click" 
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="7"
-                Grid.Row="15"
-                Grid.ColumnSpan="4"/>
-
-        <Button Content="Log Out"
-                HorizontalAlignment="Left"
-                Height="30" 
-                Width="100"
-                Grid.Column="15"
-                Grid.Row="15"
-                Grid.ColumnSpan="2"
-                Click="LogoutButton_Click"/>
-    </Grid>
+        <!-- Main content frame -->
+        <Border CornerRadius="8"
+                Background="White"
+                Padding="10"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Effect="{StaticResource CardShadow}">
+            <Frame x:Name="frMain"
+                   NavigationUIVisibility="Hidden"
+                   Background="White"/>
+        </Border>
+    </DockPanel>
 </Window>

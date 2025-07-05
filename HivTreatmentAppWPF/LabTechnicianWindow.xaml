@@ -1,0 +1,57 @@
+﻿<Window x:Class="HivTreatmentAppWPF.LabTechnicianWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cửa sổ kỹ thuật viên xét nghiệm"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Background="#F5F6FA">
+    <DockPanel LastChildFill="True" Margin="20">
+
+        <!-- Header -->
+        <Border Background="#0096FF" Padding="20" CornerRadius="8" DockPanel.Dock="Top" Margin="0,0,0,20" Effect="{StaticResource CardShadow}">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Image Source="/Assets/lab_icon.png" Width="40" Height="40" Margin="0,0,15,0"/>
+                <TextBlock x:Name="txtGreeting"
+                           Text="Chào mừng kỹ thuật viên!"
+                           FontSize="20"
+                           Foreground="White"
+                           FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Bottom navigation bar -->
+        <WrapPanel DockPanel.Dock="Bottom"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   VerticalAlignment="Bottom">
+            <Button Content="Danh sách xét nghiệm"
+                    Name="ToHealthRecordListPageButton"
+                    Click="ToHealthRecordListPageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"/>
+
+            <Button Content="Hồ sơ cá nhân"
+                    Name="ToEditProfilePageButton"
+                    Click="ToEditProfilePageButton_Click"
+                    Style="{StaticResource NavButtonStyle}"
+                    Width="140"/>
+
+            <Button Content="Đăng xuất"
+                    Click="LogoutButton_Click"
+                    Style="{StaticResource DangerButtonStyle}"
+                    Width="140"/>
+        </WrapPanel>
+
+        <!-- Main content frame -->
+        <Border CornerRadius="8"
+                Background="White"
+                Padding="10"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Effect="{StaticResource CardShadow}">
+            <Frame x:Name="frMain"
+                   NavigationUIVisibility="Hidden"
+                   Background="White"/>
+        </Border>
+    </DockPanel>
+</Window>

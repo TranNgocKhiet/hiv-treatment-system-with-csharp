@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3vJ8BQR/0BQ=",
+  "dgSpecHash": "yeVA+AIQxBs=",
   "success": true,
-  "projectFilePath": "D:\\6_github_repositories\\prn212-project\\HivTreatmentSystem\\Services\\Services.csproj",
+  "projectFilePath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -67,5 +67,15 @@
     "C:\\Users\\ACER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Services.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\6_github_repositories\\prn212-project\\hiv-treatment-system-with-csharp\\Services\\Services.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
